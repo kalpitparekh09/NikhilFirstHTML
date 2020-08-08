@@ -1,0 +1,58 @@
+	.logo{
+			float: left;
+			width: 109px;
+			height: 108px;
+			padding-left: 20px; 
+			
+		}
+		h1{
+				
+				font-size: 82px;
+				padding-left: 60px;
+				font-family: Comic Sans MS;
+		}
+	
+		.navbar{
+			font-size: 40px;
+			position:relative; left:750px; 
+			font-family: Comic Sans MS;
+		}
+		.navbar a{
+			color: #000000;
+			padding-left:75px;
+		}
+		.memory{
+			text-align: center;
+			font-size: 50px;
+			font-family: Comic Sans MS;
+		}
+		.row{
+		  		display: flex;
+		}
+		.column{
+  				flex: 33.33%;
+			  	padding: 5px;
+		}
+		.imgtext
+		{
+			position: relative;
+			font-size: 100px;
+			color: #FFFFFF;
+			font-family: Alfa Slab One;
+		}
+		.textposimg{
+			position: absolute;
+			text-align: center;
+  			top: 50%;
+		  	left: 50%;
+			transform: translate(-50%, -50%);
+		}
+		.adams{
+			position: absolute;
+			right: 20%;
+			bottom: 15%;
+			font-size: 100px;
+			color: #FFFFFF;
+			font-family: Alfa Slab One;
+		
+		}
